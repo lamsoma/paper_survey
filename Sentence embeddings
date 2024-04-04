@@ -1,1 +1,20 @@
+### 論文リンク
+https://arxiv.org/pdf/2308.03281.pdf
+### 著者/所属機関
+Zehan Li1, Xin Zhang1, Yanzhao Zhang1, Dingkun Long1, Pengjun Xie1, Meishan Zhang 1Alibaba Group
+### 投稿年
+2023
+## 概要：
+教師なし対照学習をしてから教師あり対照学習を行うことで性能が上がる
+## 研究背景
+汎用的な文埋め込みはいまだに性能があまり高くない。
+## 提案手法
+教師なし対照学習をしてから教師あり対照学習を行うことで性能が上がる
+## 実験
+MTEBを用いた実験
+## 感想
 
+## 参考
+
+### 論文リンク
+https://arxiv.org/pdf/2305.01918.pdf
